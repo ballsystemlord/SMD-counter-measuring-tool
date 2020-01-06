@@ -1,0 +1,150 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" 
+  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="190mm" height="275mm" xmlns="http://www.w3.org/2000/svg">
+  <title>My rectangle test document.
+  </title>
+  
+  <style type="text/css">
+  <![CDATA[
+      text.p { font-family: arial black; text-anchor: end;
+               font-stretch: normal; font-size: 9; fill: mediumpurple; }
+      text.n { font-family: dejavu serif semi-condensed; text-anchor: start;
+               font-stretch: ultra condensed;
+               font-size: 9; font-weight: bolder; }
+      text.g { font-family: arial black; text-anchor: start;
+             font-stretch: normal; fill: Green;
+             font-size: 9pt; }
+    ]]>
+   </style>
+   
+  <rect x="0mm" y="0mm" fill="white" width="290mm" height="275mm"/>
+	<text x="10mm" y="15mm" class="g">SMD 0803 counter.</text>
+    <rect x="15mm" y="25mm" width="0.3mm" height="243.9mm" fill="black"/>
+
+    <rect x="10mm" y="25.000000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="26.000000mm" class="p">1</text>
+    <rect x="10mm" y="28.985000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="29.985000mm" class="p">2</text>
+    <rect x="10mm" y="32.970000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="33.970000mm" class="p">3</text>
+    <rect x="10mm" y="36.955000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="37.955000mm" class="p">4</text>
+    <rect x="10mm" y="40.940000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="41.940000mm" class="p">5</text>
+    <rect x="10mm" y="44.925000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="45.925000mm" class="p">6</text>
+    <rect x="10mm" y="48.910000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="49.910000mm" class="p">7</text>
+    <rect x="10mm" y="52.895000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="53.895000mm" class="p">8</text>
+    <rect x="10mm" y="56.880000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="57.880000mm" class="p">9</text>
+    <rect x="10mm" y="60.865000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="61.865000mm" class="p">10</text>
+    <rect x="10mm" y="64.850000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="65.850000mm" class="p">11</text>
+    <rect x="10mm" y="68.835000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="69.835000mm" class="p">12</text>
+    <rect x="10mm" y="72.820000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="73.820000mm" class="p">13</text>
+    <rect x="10mm" y="76.805000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="77.805000mm" class="p">14</text>
+    <rect x="10mm" y="80.790000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="81.790000mm" class="p">15</text>
+    <rect x="10mm" y="84.775000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="85.775000mm" class="p">16</text>
+    <rect x="10mm" y="88.760000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="89.760000mm" class="p">17</text>
+    <rect x="10mm" y="92.745000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="93.745000mm" class="p">18</text>
+    <rect x="10mm" y="96.730000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="97.730000mm" class="p">19</text>
+    <rect x="10mm" y="100.715000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="101.715000mm" class="p">20</text>
+    <rect x="10mm" y="104.700000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="105.700000mm" class="p">21</text>
+    <rect x="10mm" y="108.685000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="109.685000mm" class="p">22</text>
+    <rect x="10mm" y="112.670000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="113.670000mm" class="p">23</text>
+    <rect x="10mm" y="116.655000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="117.655000mm" class="p">24</text>
+    <rect x="10mm" y="120.640000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="121.640000mm" class="p">25</text>
+    <rect x="10mm" y="124.625000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="125.625000mm" class="p">26</text>
+    <rect x="10mm" y="128.610000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="129.610000mm" class="p">27</text>
+    <rect x="10mm" y="132.595000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="133.595000mm" class="p">28</text>
+    <rect x="10mm" y="136.580000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="137.580000mm" class="p">29</text>
+    <rect x="10mm" y="140.565000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="141.565000mm" class="p">30</text>
+    <rect x="10mm" y="144.550000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="145.550000mm" class="p">31</text>
+    <rect x="10mm" y="148.535000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="149.535000mm" class="p">32</text>
+    <rect x="10mm" y="152.520000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="153.520000mm" class="p">33</text>
+    <rect x="10mm" y="156.505000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="157.505000mm" class="p">34</text>
+    <rect x="10mm" y="160.490000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="161.490000mm" class="p">35</text>
+    <rect x="10mm" y="164.475000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="165.475000mm" class="p">36</text>
+    <rect x="10mm" y="168.460000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="169.460000mm" class="p">37</text>
+    <rect x="10mm" y="172.445000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="173.445000mm" class="p">38</text>
+    <rect x="10mm" y="176.430000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="177.430000mm" class="p">39</text>
+    <rect x="10mm" y="180.415000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="181.415000mm" class="p">40</text>
+    <rect x="10mm" y="184.400000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="185.400000mm" class="p">41</text>
+    <rect x="10mm" y="188.385000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="189.385000mm" class="p">42</text>
+    <rect x="10mm" y="192.370000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="193.370000mm" class="p">43</text>
+    <rect x="10mm" y="196.355000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="197.355000mm" class="p">44</text>
+    <rect x="10mm" y="200.340000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="201.340000mm" class="p">45</text>
+    <rect x="10mm" y="204.325000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="205.325000mm" class="p">46</text>
+    <rect x="10mm" y="208.310000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="209.310000mm" class="p">47</text>
+    <rect x="10mm" y="212.295000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="213.295000mm" class="p">48</text>
+    <rect x="10mm" y="216.280000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="217.280000mm" class="p">49</text>
+    <rect x="10mm" y="220.265000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="221.265000mm" class="p">50</text>
+    <rect x="10mm" y="224.250000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="225.250000mm" class="p">51</text>
+    <rect x="10mm" y="228.235000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="229.235000mm" class="p">52</text>
+    <rect x="10mm" y="232.220000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="233.220000mm" class="p">53</text>
+    <rect x="10mm" y="236.205000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="237.205000mm" class="p">54</text>
+    <rect x="10mm" y="240.190000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="241.190000mm" class="p">55</text>
+    <rect x="10mm" y="244.175000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="245.175000mm" class="p">56</text>
+    <rect x="10mm" y="248.160000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="249.160000mm" class="p">57</text>
+    <rect x="10mm" y="252.145000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="253.145000mm" class="p">58</text>
+    <rect x="10mm" y="256.130000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="257.130000mm" class="p">59</text>
+    <rect x="10mm" y="260.115000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="261.115000mm" class="p">60</text>
+    <rect x="10mm" y="264.100000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="265.100000mm" class="p">61</text>
+    <rect x="10mm" y="268.085000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="269.085000mm" class="p">62</text>
+
+</svg>
