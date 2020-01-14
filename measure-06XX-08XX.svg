@@ -19,132 +19,261 @@
    </style>
    
   <rect x="0mm" y="0mm" fill="white" width="290mm" height="275mm"/>
-	<text x="10mm" y="15mm" class="g">SMD 0803 counter.</text>
+	<text x="10mm" y="15mm" class="g">SMD 06XX counter.</text>
     <rect x="15mm" y="25mm" width="0.3mm" height="243.9mm" fill="black"/>
 
     <rect x="10mm" y="25.000000mm" width="5mm" height="0.8mm" fill="black"/>
     <text x="20mm" y="26.000000mm" class="p">1</text>
-    <rect x="10mm" y="28.985000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="29.985000mm" class="p">2</text>
-    <rect x="10mm" y="32.970000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="33.970000mm" class="p">3</text>
-    <rect x="10mm" y="36.955000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="37.955000mm" class="p">4</text>
-    <rect x="10mm" y="40.940000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="41.940000mm" class="p">5</text>
-    <rect x="10mm" y="44.925000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="45.925000mm" class="p">6</text>
-    <rect x="10mm" y="48.910000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="49.910000mm" class="p">7</text>
-    <rect x="10mm" y="52.895000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="53.895000mm" class="p">8</text>
-    <rect x="10mm" y="56.880000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="57.880000mm" class="p">9</text>
-    <rect x="10mm" y="60.865000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="61.865000mm" class="p">10</text>
-    <rect x="10mm" y="64.850000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="65.850000mm" class="p">11</text>
-    <rect x="10mm" y="68.835000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="69.835000mm" class="p">12</text>
-    <rect x="10mm" y="72.820000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="73.820000mm" class="p">13</text>
-    <rect x="10mm" y="76.805000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="77.805000mm" class="p">14</text>
-    <rect x="10mm" y="80.790000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="81.790000mm" class="p">15</text>
-    <rect x="10mm" y="84.775000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="85.775000mm" class="p">16</text>
-    <rect x="10mm" y="88.760000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="89.760000mm" class="p">17</text>
-    <rect x="10mm" y="92.745000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="93.745000mm" class="p">18</text>
-    <rect x="10mm" y="96.730000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="97.730000mm" class="p">19</text>
-    <rect x="10mm" y="100.715000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="101.715000mm" class="p">20</text>
-    <rect x="10mm" y="104.700000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="105.700000mm" class="p">21</text>
-    <rect x="10mm" y="108.685000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="109.685000mm" class="p">22</text>
-    <rect x="10mm" y="112.670000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="113.670000mm" class="p">23</text>
-    <rect x="10mm" y="116.655000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="117.655000mm" class="p">24</text>
-    <rect x="10mm" y="120.640000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="121.640000mm" class="p">25</text>
-    <rect x="10mm" y="124.625000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="125.625000mm" class="p">26</text>
-    <rect x="10mm" y="128.610000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="129.610000mm" class="p">27</text>
-    <rect x="10mm" y="132.595000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="133.595000mm" class="p">28</text>
-    <rect x="10mm" y="136.580000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="137.580000mm" class="p">29</text>
-    <rect x="10mm" y="140.565000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="141.565000mm" class="p">30</text>
-    <rect x="10mm" y="144.550000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="145.550000mm" class="p">31</text>
-    <rect x="10mm" y="148.535000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="149.535000mm" class="p">32</text>
-    <rect x="10mm" y="152.520000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="153.520000mm" class="p">33</text>
-    <rect x="10mm" y="156.505000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="157.505000mm" class="p">34</text>
-    <rect x="10mm" y="160.490000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="161.490000mm" class="p">35</text>
-    <rect x="10mm" y="164.475000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="165.475000mm" class="p">36</text>
-    <rect x="10mm" y="168.460000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="169.460000mm" class="p">37</text>
-    <rect x="10mm" y="172.445000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="173.445000mm" class="p">38</text>
-    <rect x="10mm" y="176.430000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="177.430000mm" class="p">39</text>
-    <rect x="10mm" y="180.415000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="181.415000mm" class="p">40</text>
-    <rect x="10mm" y="184.400000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="185.400000mm" class="p">41</text>
-    <rect x="10mm" y="188.385000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="189.385000mm" class="p">42</text>
-    <rect x="10mm" y="192.370000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="193.370000mm" class="p">43</text>
-    <rect x="10mm" y="196.355000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="197.355000mm" class="p">44</text>
-    <rect x="10mm" y="200.340000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="201.340000mm" class="p">45</text>
-    <rect x="10mm" y="204.325000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="205.325000mm" class="p">46</text>
-    <rect x="10mm" y="208.310000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="209.310000mm" class="p">47</text>
-    <rect x="10mm" y="212.295000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="213.295000mm" class="p">48</text>
-    <rect x="10mm" y="216.280000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="217.280000mm" class="p">49</text>
-    <rect x="10mm" y="220.265000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="221.265000mm" class="p">50</text>
-    <rect x="10mm" y="224.250000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="225.250000mm" class="p">51</text>
-    <rect x="10mm" y="228.235000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="229.235000mm" class="p">52</text>
-    <rect x="10mm" y="232.220000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="233.220000mm" class="p">53</text>
-    <rect x="10mm" y="236.205000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="237.205000mm" class="p">54</text>
-    <rect x="10mm" y="240.190000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="241.190000mm" class="p">55</text>
-    <rect x="10mm" y="244.175000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="245.175000mm" class="p">56</text>
-    <rect x="10mm" y="248.160000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="249.160000mm" class="p">57</text>
-    <rect x="10mm" y="252.145000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="253.145000mm" class="p">58</text>
-    <rect x="10mm" y="256.130000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="257.130000mm" class="p">59</text>
-    <rect x="10mm" y="260.115000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="261.115000mm" class="p">60</text>
-    <rect x="10mm" y="264.100000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="265.100000mm" class="p">61</text>
-    <rect x="10mm" y="268.085000mm" width="5mm" height="0.8mm" fill="black"/>
-    <text x="20mm" y="269.085000mm" class="p">62</text>
+    <rect x="10mm" y="28.960000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="29.960000mm" class="p">2</text>
+    <rect x="10mm" y="32.920000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="33.920000mm" class="p">3</text>
+    <rect x="10mm" y="36.880000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="37.880000mm" class="p">4</text>
+    <rect x="10mm" y="40.840000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="41.840000mm" class="p">5</text>
+    <rect x="10mm" y="44.800000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="45.800000mm" class="p">6</text>
+    <rect x="10mm" y="48.760000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="49.760000mm" class="p">7</text>
+    <rect x="10mm" y="52.720000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="53.720000mm" class="p">8</text>
+    <rect x="10mm" y="56.680000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="57.680000mm" class="p">9</text>
+    <rect x="10mm" y="60.640000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="61.640000mm" class="p">10</text>
+    <rect x="10mm" y="64.600000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="65.600000mm" class="p">11</text>
+    <rect x="10mm" y="68.560000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="69.560000mm" class="p">12</text>
+    <rect x="10mm" y="72.520000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="73.520000mm" class="p">13</text>
+    <rect x="10mm" y="76.480000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="77.480000mm" class="p">14</text>
+    <rect x="10mm" y="80.440000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="81.440000mm" class="p">15</text>
+    <rect x="10mm" y="84.400000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="85.400000mm" class="p">16</text>
+    <rect x="10mm" y="88.360000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="89.360000mm" class="p">17</text>
+    <rect x="10mm" y="92.320000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="93.320000mm" class="p">18</text>
+    <rect x="10mm" y="96.280000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="97.280000mm" class="p">19</text>
+    <rect x="10mm" y="100.240000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="101.240000mm" class="p">20</text>
+    <rect x="10mm" y="104.200000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="105.200000mm" class="p">21</text>
+    <rect x="10mm" y="108.160000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="109.160000mm" class="p">22</text>
+    <rect x="10mm" y="112.120000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="113.120000mm" class="p">23</text>
+    <rect x="10mm" y="116.080000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="117.080000mm" class="p">24</text>
+    <rect x="10mm" y="120.040000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="121.040000mm" class="p">25</text>
+    <rect x="10mm" y="124.000000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="125.000000mm" class="p">26</text>
+    <rect x="10mm" y="127.960000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="128.960000mm" class="p">27</text>
+    <rect x="10mm" y="131.920000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="132.920000mm" class="p">28</text>
+    <rect x="10mm" y="135.880000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="136.880000mm" class="p">29</text>
+    <rect x="10mm" y="139.840000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="140.840000mm" class="p">30</text>
+    <rect x="10mm" y="143.800000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="144.800000mm" class="p">31</text>
+    <rect x="10mm" y="147.760000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="148.760000mm" class="p">32</text>
+    <rect x="10mm" y="151.720000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="152.720000mm" class="p">33</text>
+    <rect x="10mm" y="155.680000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="156.680000mm" class="p">34</text>
+    <rect x="10mm" y="159.640000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="160.640000mm" class="p">35</text>
+    <rect x="10mm" y="163.600000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="164.600000mm" class="p">36</text>
+    <rect x="10mm" y="167.560000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="168.560000mm" class="p">37</text>
+    <rect x="10mm" y="171.520000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="172.520000mm" class="p">38</text>
+    <rect x="10mm" y="175.480000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="176.480000mm" class="p">39</text>
+    <rect x="10mm" y="179.440000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="180.440000mm" class="p">40</text>
+    <rect x="10mm" y="183.400000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="184.400000mm" class="p">41</text>
+    <rect x="10mm" y="187.360000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="188.360000mm" class="p">42</text>
+    <rect x="10mm" y="191.320000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="192.320000mm" class="p">43</text>
+    <rect x="10mm" y="195.280000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="196.280000mm" class="p">44</text>
+    <rect x="10mm" y="199.240000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="200.240000mm" class="p">45</text>
+    <rect x="10mm" y="203.200000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="204.200000mm" class="p">46</text>
+    <rect x="10mm" y="207.160000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="208.160000mm" class="p">47</text>
+    <rect x="10mm" y="211.120000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="212.120000mm" class="p">48</text>
+    <rect x="10mm" y="215.080000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="216.080000mm" class="p">49</text>
+    <rect x="10mm" y="219.040000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="220.040000mm" class="p">50</text>
+    <rect x="10mm" y="223.000000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="224.000000mm" class="p">51</text>
+    <rect x="10mm" y="226.960000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="227.960000mm" class="p">52</text>
+    <rect x="10mm" y="230.920000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="231.920000mm" class="p">53</text>
+    <rect x="10mm" y="234.880000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="235.880000mm" class="p">54</text>
+    <rect x="10mm" y="238.840000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="239.840000mm" class="p">55</text>
+    <rect x="10mm" y="242.800000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="243.800000mm" class="p">56</text>
+    <rect x="10mm" y="246.760000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="247.760000mm" class="p">57</text>
+    <rect x="10mm" y="250.720000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="251.720000mm" class="p">58</text>
+    <rect x="10mm" y="254.680000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="255.680000mm" class="p">59</text>
+    <rect x="10mm" y="258.640000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="259.640000mm" class="p">60</text>
+    <rect x="10mm" y="262.600000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="263.600000mm" class="p">61</text>
+    <rect x="10mm" y="266.560000mm" width="5mm" height="0.8mm" fill="black"/>
+    <text x="20mm" y="267.560000mm" class="p">62</text>
+
+	<text x="45mm" y="15mm" class="g">SMD 08XX counter.</text>
+    <rect x="50mm" y="25mm" width="0.3mm" height="243.9mm" fill="black"/>
+
+    <rect x="45mm" y="25.000000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="26.000000mm" class="p">1</text>
+    <rect x="45mm" y="28.974000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="29.974000mm" class="p">2</text>
+    <rect x="45mm" y="32.948000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="33.948000mm" class="p">3</text>
+    <rect x="45mm" y="36.922000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="37.922000mm" class="p">4</text>
+    <rect x="45mm" y="40.896000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="41.896000mm" class="p">5</text>
+    <rect x="45mm" y="44.870000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="45.870000mm" class="p">6</text>
+    <rect x="45mm" y="48.844000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="49.844000mm" class="p">7</text>
+    <rect x="45mm" y="52.818000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="53.818000mm" class="p">8</text>
+    <rect x="45mm" y="56.792000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="57.792000mm" class="p">9</text>
+    <rect x="45mm" y="60.766000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="61.766000mm" class="p">10</text>
+    <rect x="45mm" y="64.740000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="65.740000mm" class="p">11</text>
+    <rect x="45mm" y="68.714000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="69.714000mm" class="p">12</text>
+    <rect x="45mm" y="72.688000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="73.688000mm" class="p">13</text>
+    <rect x="45mm" y="76.662000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="77.662000mm" class="p">14</text>
+    <rect x="45mm" y="80.636000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="81.636000mm" class="p">15</text>
+    <rect x="45mm" y="84.610000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="85.610000mm" class="p">16</text>
+    <rect x="45mm" y="88.584000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="89.584000mm" class="p">17</text>
+    <rect x="45mm" y="92.558000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="93.558000mm" class="p">18</text>
+    <rect x="45mm" y="96.532000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="97.532000mm" class="p">19</text>
+    <rect x="45mm" y="100.506000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="101.506000mm" class="p">20</text>
+    <rect x="45mm" y="104.480000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="105.480000mm" class="p">21</text>
+    <rect x="45mm" y="108.454000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="109.454000mm" class="p">22</text>
+    <rect x="45mm" y="112.428000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="113.428000mm" class="p">23</text>
+    <rect x="45mm" y="116.402000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="117.402000mm" class="p">24</text>
+    <rect x="45mm" y="120.376000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="121.376000mm" class="p">25</text>
+    <rect x="45mm" y="124.350000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="125.350000mm" class="p">26</text>
+    <rect x="45mm" y="128.324000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="129.324000mm" class="p">27</text>
+    <rect x="45mm" y="132.298000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="133.298000mm" class="p">28</text>
+    <rect x="45mm" y="136.272000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="137.272000mm" class="p">29</text>
+    <rect x="45mm" y="140.246000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="141.246000mm" class="p">30</text>
+    <rect x="45mm" y="144.220000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="145.220000mm" class="p">31</text>
+    <rect x="45mm" y="148.194000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="149.194000mm" class="p">32</text>
+    <rect x="45mm" y="152.168000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="153.168000mm" class="p">33</text>
+    <rect x="45mm" y="156.142000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="157.142000mm" class="p">34</text>
+    <rect x="45mm" y="160.116000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="161.116000mm" class="p">35</text>
+    <rect x="45mm" y="164.090000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="165.090000mm" class="p">36</text>
+    <rect x="45mm" y="168.064000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="169.064000mm" class="p">37</text>
+    <rect x="45mm" y="172.038000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="173.038000mm" class="p">38</text>
+    <rect x="45mm" y="176.012000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="177.012000mm" class="p">39</text>
+    <rect x="45mm" y="179.986000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="180.986000mm" class="p">40</text>
+    <rect x="45mm" y="183.960000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="184.960000mm" class="p">41</text>
+    <rect x="45mm" y="187.934000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="188.934000mm" class="p">42</text>
+    <rect x="45mm" y="191.908000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="192.908000mm" class="p">43</text>
+    <rect x="45mm" y="195.882000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="196.882000mm" class="p">44</text>
+    <rect x="45mm" y="199.856000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="200.856000mm" class="p">45</text>
+    <rect x="45mm" y="203.830000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="204.830000mm" class="p">46</text>
+    <rect x="45mm" y="207.804000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="208.804000mm" class="p">47</text>
+    <rect x="45mm" y="211.778000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="212.778000mm" class="p">48</text>
+    <rect x="45mm" y="215.752000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="216.752000mm" class="p">49</text>
+    <rect x="45mm" y="219.726000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="220.726000mm" class="p">50</text>
+    <rect x="45mm" y="223.700000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="224.700000mm" class="p">51</text>
+    <rect x="45mm" y="227.674000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="228.674000mm" class="p">52</text>
+    <rect x="45mm" y="231.648000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="232.648000mm" class="p">53</text>
+    <rect x="45mm" y="235.622000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="236.622000mm" class="p">54</text>
+    <rect x="45mm" y="239.596000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="240.596000mm" class="p">55</text>
+    <rect x="45mm" y="243.570000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="244.570000mm" class="p">56</text>
+    <rect x="45mm" y="247.544000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="248.544000mm" class="p">57</text>
+    <rect x="45mm" y="251.518000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="252.518000mm" class="p">58</text>
+    <rect x="45mm" y="255.492000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="256.492000mm" class="p">59</text>
+    <rect x="45mm" y="259.466000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="260.466000mm" class="p">60</text>
+    <rect x="45mm" y="263.440000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="264.440000mm" class="p">61</text>
+    <rect x="45mm" y="267.414000mm" width="5mm" height="1.3mm" fill="black"/>
+    <text x="55mm" y="268.414000mm" class="p">62</text>
 
 </svg>
+
